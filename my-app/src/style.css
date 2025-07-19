@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 body {
-    /*background:linear-gradient(to bottom, #ffffff 0%, #52ccd0 100%);;
-    background-repeat: repeat-x;*/
+    background:linear-gradient(to bottom, #29d4c9 0%, #ffffff 100%);;
+    background-repeat: repeat-x;
     margin: 0;
 }
 
@@ -45,7 +45,7 @@ body {
 .nav li.hover {
   background-color: #777;
 }
-/*p {
+p {
   margin: 25px;
   font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif, Helvetica, sans-serif;
 }
@@ -75,4 +75,4 @@ h2 {
   background-color: DarkTurquoise;
   color: white;
    font-size: 22px;
-}*/
+}
