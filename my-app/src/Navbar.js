@@ -2,7 +2,7 @@ import { useImperativeHandle } from "react"
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 export default function Navbar() {
     return <nav className="nav">
-       <Link to="/" className="sitetitle">SpokaneMusicScene.com</Link>
+       <Link to="/" className="site-title">SpokaneMusicScene.com</Link>
        <ul>
             <Customlink to="/Calendar">Calendar</Customlink>
             <Customlink to="/Bands">Bands</Customlink>

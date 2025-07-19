@@ -18,6 +18,13 @@ export default function Jams() {
                 <h2>Fired Up Pizza Jam</h2>
                 <p>Every Sunday from 2:00 pm. to 5:00 pm. ran by Steve. When you show up there will be a sheet on a table by the door, put your name on it to get in line to perform. Often times Steve doesn't look at the list so it is helpful to go talk to him yourself. This jam is open to all styles of music although largly 70s classic rock tunes get called. The jam has PAs, mics, guitar amps, a place to plug in a bass, a keyboard, and a drum kit so you really just need to bring your own guitar, bass, or drum sticks.</p>
             </li>
+            <div class="footer">
+                    <h2>Contact:</h2>
+                    <ul>
+                        <li><p>Email: musicscene@gmail.com</p></li>
+                        <li class="list"><p>Instagram: @Music_Scene</p></li>
+                    </ul>
+            </div>
         </div>
     );
 }
