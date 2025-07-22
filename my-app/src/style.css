@@ -20,6 +20,10 @@ body {
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .nav ul {
@@ -81,9 +85,9 @@ h2 {
 }
 
 .button:hover {
-  background-color: DarkTurquoise;
+  background-color: rgba(0, 206, 209, 0.427);
   color: white;
-   font-size: 22px;
+   font-size: 16px;
 }
 
 .footer {
@@ -100,7 +104,7 @@ h2 {
 .li {
   margin: 0;
   padding: 0;
-}
+} 
 
 .list {
   margin-top: -20px;

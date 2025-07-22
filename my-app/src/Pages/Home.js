@@ -1,6 +1,7 @@
 export default function Home() {
     return(
         <div>
+            <p class="space">space</p>
             <h1>SPOKANEMUSICSCENE.COM</h1>
             <h2>About:</h2>
             <p>Spokanemusicscene.com is a one stop shop for all information regarding your local music scene. From ambiance at your local resterant/bar to a full on concert or if you desire to bring your talents to a Open Mic or Jam all details can be found here. To stay up to date on all the upcoming local live music performances and events sign up to the monthly NEWSLETTER.</p>
@@ -16,6 +17,7 @@ export default function Home() {
             <h2>Upcoming Events:</h2>
             <p class="space">space</p>
             <div class="footer">
+                <p class="space">space</p>
                 <h2>Contact:</h2>
                 <ul>
                     <li><p>Email: musicscene@gmail.com</p></li>

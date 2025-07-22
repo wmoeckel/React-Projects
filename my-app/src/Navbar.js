@@ -4,6 +4,7 @@ export default function Navbar() {
     return <nav className="nav">
        <Link to="/" className="site-title">SpokaneMusicScene.com</Link>
        <ul>
+            <Customlink to="/Home">Home</Customlink>
             <Customlink to="/Calendar">Calendar</Customlink>
             <Customlink to="/Bands">Bands</Customlink>
             <Customlink to="/Venues">Venues</Customlink>

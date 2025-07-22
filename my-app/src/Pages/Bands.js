@@ -1,6 +1,7 @@
 export default function Bands() {
     return(
         <div>
+            <p class="space">space</p>
             <h1>Bands</h1>
             <div class="footer">
                     <h2>Contact:</h2>

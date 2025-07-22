@@ -1,6 +1,7 @@
 export default function Jams() {
     return(
         <div>
+            <p class="space">space</p>
             <h1>Open Mic/Jams</h1>
             <h2>Open Mics VS Jams:</h2>
             <p>Every one seems to have different ideas about what is meant when people say Open Mic or Jam, so that we are all on the same page here is our deffinitions:</p>
