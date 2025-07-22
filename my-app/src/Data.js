@@ -14,7 +14,7 @@ function Data() {
     const description1='A livley Blues and Groove cover band that brings the energy and vibes of classic soul and funk music of the 70s to today.';
     const description2='A Blues Rock band carrying the energy and attitude of the traditional blues classic such as BB king & Eric Clapton, with more energetic songs from Led Zeppelin and Jimmy Hendrix.';
     const description3='A fun, goofy, somewhat comedic classic rock coverband where the young muscisians have fun recreating some of their ffavorite classic songs that have become dear to all who originally heard them.';
-    const description4='Some say they are the greatest band to ever be and some may be right.'
+    const description4='Some say they are the greatest band to ever be and some may be right.';
     
    
 }
