@@ -1,4 +1,4 @@
-function Data() {
+export default function Data() {
     const name1='Sunshower';
     const name2='Dead End';
     const name3='Something to Do with a Car';
