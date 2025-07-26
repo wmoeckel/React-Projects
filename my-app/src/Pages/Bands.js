@@ -62,6 +62,18 @@ export default function Bands() {
                     <li class="list"><p>Drummer: Steve Gadd</p></li>
                     <li class="list"><p>Singer: Stevie Nicks</p></li>
                 </ul>
+                <h2>Follow On:</h2>
+                <ul>
+                    <li><p>Instagram: @Cool_Band</p></li>
+                    <li class="list"><p>Facebook: CoolBandPage</p></li>
+                    <li class="list"><p>Youtube: Youtube.com/CoolBand</p></li>
+                    <li class="list"><p>Website: www.coolband.com</p></li>
+                </ul>
+                <h2>Contact to Book:</h2>
+                <ul>
+                    <li><p>Phone: (xxx) xxx-xxxx</p></li>
+                    <li class="list"><p>Email: CoolBand@gmail.com</p></li>
+                </ul>
             </Popup>
         </div>
     );

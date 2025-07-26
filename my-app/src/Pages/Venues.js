@@ -58,6 +58,7 @@ export default function Venues() {
                 <h2>Hours of Operation: </h2> <p>1:00 pm. - 10:00 pm.</p>
                 <h2>Music Styles:</h2> <p>Indie Rock, Indie Pop, Acoustic, Folk.</p>
                 <h2>Age Limit:</h2> <p>Family Friendly</p>
+                <h2>Contacts Name:</h2> <p>Bar Owner's Name</p>
                 <h2>Booking Contact Information:</h2>
                 <ul>
                     <li><p>Phone: (xxx) xxx-xxxx</p></li>
