@@ -12,7 +12,8 @@ import Shops from "./Pages/Shops"
 import Teachers from "./Pages/Teachers"
 import Venues from "./Pages/Venues"
 import Data from "./Pages/Data"
-
+import Popup from "./Pages/Components/Popup"
+import { useState } from 'react';
 function App() {
   return (
     <>

@@ -1,4 +1,7 @@
+import Popup from "./Components/Popup"
+import { useState } from 'react';
 export default function Home() {
+    const [buttonPopup, setButtonPopup] = useState(false);
     return(
         <div>
             <p class="space">space</p>
@@ -8,7 +11,7 @@ export default function Home() {
             <p class="space">space</p>
             <h2>Monthly News Letter:</h2>
             <p>To stay up to date on all the upcoming local live music performances and events sign up for our monthly News Letter to get a list of all the events happening in your local music scene each month.</p>
-            <button class="button">Signup</button>
+            <button onClick={() => setButtonPopup(true)} class="button">Signup</button>
             <p class="space">space</p>
             <h2>Get Involved:</h2>
             <p>If you are a manager or member of a band and want to get your performance or event on the calendar please fill out and submit the form below for consideration. Please make sure that ALL the information is filled in and ACCURATE as we pride our selves on ensuring that all the details are as stated. Please email musicscene@gmail.com if details change or your performance is cancelled as soon as possible! For all other inquiries please email the previously stated email: musicscene@gmail.com.</p>
@@ -24,6 +27,9 @@ export default function Home() {
                     <li class="list"><p>Instagram: @Music_Scene</p></li>
                 </ul>
             </div>
+            <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+                <h3>Test Popup</h3>
+            </Popup>
         </div>
     );
 } 
