@@ -11,7 +11,7 @@ import Jams from "./Pages/Jams"
 import Shops from "./Pages/Shops"
 import Teachers from "./Pages/Teachers"
 import Venues from "./Pages/Venues"
-import Data from "Data"
+import Data from "./Pages/Data"
 
 function App() {
   return (
