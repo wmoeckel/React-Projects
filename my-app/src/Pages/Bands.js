@@ -9,7 +9,7 @@ export default function Bands() {
             <h1>Bands</h1>
             <div class="gallery">
                 <a target="_blank">
-                    <img src="/public/img_logo192.png" alt="Band Image" width="600" height="400"></img>
+                    <img src="logo192.png" alt="Band Image" width="600" height="400"></img>
                     <button onClick={() => setButtonPopup(true)} class='btn'>Band</button>
                 </a>
                 <div class="icon-band">
@@ -20,7 +20,7 @@ export default function Bands() {
             </div>
             <div class="gallery">
                 <a target="_blank">
-                    <img src="img_logo192.png" alt="Band Image" width="600" height="400"></img>
+                    <img src="logo192.png" alt="Band Image" width="600" height="400"></img>
                     <button onClick={() => setButtonPopup(true)} class='btn'>Band</button>
                 </a>
                 <div class="icon-band">
@@ -31,7 +31,7 @@ export default function Bands() {
             </div>
             <div class="gallery">
                 <a target="_blank">
-                    <img src="img_logo192.png" alt="Band Image" width="600" height="400"></img>
+                    <img src="logo192.png" alt="Band Image" width="600" height="400"></img>
                     <button onClick={() => setButtonPopup(true)} class='btn'>Band</button>
                 </a>
                 <div class="icon-band">
