@@ -49,7 +49,7 @@ export default function Bands() {
                     </ul>
             </div>
             <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
-                <img src="/Photos/logo512copy.png" alt="Band Photo"></img>
+                <img src="logo512copy.png" alt="Band Photo"></img>
                 <h1>Band Name</h1>
                 <p class='genre2'>Genre: Rock, Funk, Soul, Jazz, Hip-Hop</p>
                 <br/>
