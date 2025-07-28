@@ -12,10 +12,10 @@ export default function Calendar() {
         events: [
             {
                 id: 1,
-                title: 'My New Event',
+                title: 'Sunshower',
                 start: '2025-01-01 00:00',
                 end: '2025-01-01 02:00',
-                description: 'Sunshower'
+                description: 'Cover Charge: $5.00',
             }
         ],
         selectedDate: '2025-01-01',
